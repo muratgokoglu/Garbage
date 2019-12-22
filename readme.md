@@ -1,6 +1,5 @@
 #Starting with Git
 
-#### A fun way to learn git with **Sample Developer**.
+#### Enjoying Github.
 
----
-Bana muratgokoglu@gmail.com adresinden ulaşabilirsiniz. 
+--- 
